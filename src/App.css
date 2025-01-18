@@ -161,6 +161,7 @@ header {
   font-size: 1rem;
   cursor: pointer;
   transition: all 0.3s ease;
+  margin-left: 1rem;
 }
 
 .edit-modal button:hover {
@@ -177,6 +178,7 @@ header {
   background: rgba(0, 0, 0, 0.6);
   z-index: 999;
   animation: fadeIn 0.3s ease-in-out;
+  
 }
 
 /* Fade In Animation */
